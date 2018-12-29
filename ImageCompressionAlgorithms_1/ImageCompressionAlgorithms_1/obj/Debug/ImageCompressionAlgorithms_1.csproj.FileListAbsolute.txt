@@ -1,0 +1,18 @@
+c:\users\kempa\documents\visual studio 2015\Projects\dersler\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\bin\Debug\ImageCompressionAlgorithms_1.exe.config
+c:\users\kempa\documents\visual studio 2015\Projects\dersler\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\bin\Debug\ImageCompressionAlgorithms_1.exe
+c:\users\kempa\documents\visual studio 2015\Projects\dersler\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\bin\Debug\ImageCompressionAlgorithms_1.pdb
+c:\users\kempa\documents\visual studio 2015\Projects\dersler\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\obj\Debug\ImageCompressionAlgorithms_1.csprojResolveAssemblyReference.cache
+c:\users\kempa\documents\visual studio 2015\Projects\dersler\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\obj\Debug\ImageCompressionAlgorithms_1.Form1.resources
+c:\users\kempa\documents\visual studio 2015\Projects\dersler\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\obj\Debug\ImageCompressionAlgorithms_1.Properties.Resources.resources
+c:\users\kempa\documents\visual studio 2015\Projects\dersler\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\obj\Debug\ImageCompressionAlgorithms_1.csproj.GenerateResource.Cache
+c:\users\kempa\documents\visual studio 2015\Projects\dersler\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\obj\Debug\ImageCompressionAlgorithms_1.exe
+c:\users\kempa\documents\visual studio 2015\Projects\dersler\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\obj\Debug\ImageCompressionAlgorithms_1.pdb
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\YAZILIM KALİTE\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\bin\Debug\ImageCompressionAlgorithms_1.exe.config
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\YAZILIM KALİTE\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\obj\Debug\ImageCompressionAlgorithms_1.exe
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\YAZILIM KALİTE\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\obj\Debug\ImageCompressionAlgorithms_1.pdb
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\YAZILIM KALİTE\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\bin\Debug\ImageCompressionAlgorithms_1.exe
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\YAZILIM KALİTE\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\bin\Debug\ImageCompressionAlgorithms_1.pdb
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\YAZILIM KALİTE\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\obj\Debug\ImageCompressionAlgorithms_1.csprojResolveAssemblyReference.cache
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\YAZILIM KALİTE\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\obj\Debug\ImageCompressionAlgorithms_1.Form1.resources
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\YAZILIM KALİTE\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\obj\Debug\ImageCompressionAlgorithms_1.Properties.Resources.resources
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\YAZILIM KALİTE\ImageCompressionAlgorithms_1\ImageCompressionAlgorithms_1\obj\Debug\ImageCompressionAlgorithms_1.csproj.GenerateResource.Cache
